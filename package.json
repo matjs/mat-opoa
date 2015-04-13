@@ -1,9 +1,9 @@
 {
   "name": "mat-opoa",
-  "description": "mat middleware for opoa project",
+  "description": "跑单页应用的mat插件",
   "version": "0.0.1",
   "repository": {
-    "url": "https://github.com/naij/mat-opoa"
+    "url": "https://github.com/matjs/mat-opoa"
   },
   "author": {
     "name": "naij"
@@ -17,7 +17,7 @@
   },
   "licenses": "MIT",
   "bugs": {
-    "url": "https://github.com/naij/mat-opoa/issues"
+    "url": "https://github.com/matjs/mat-opoa/issues"
   },
-  "homepage": "https://github.com/naij/mat-opoa"
+  "homepage": "https://github.com/matjs/mat-opoa"
 }
