@@ -30,7 +30,7 @@ mat.task('default', function () {
 mat.task('daily', function () {
   mat.use(opoa({
     root: './',
-    proxy: 'p.alimama.net'
+    proxy: 'www.abc.net'
   }));
 })
 ```
